@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @neumentora
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Neumentora
+Neumentora 📚 is an edtech 🎓 company that develops applications💻 to help students👨‍🎓.
 
-<!---
-neumentora/neumentora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What they do
+They build apps😊 that make studying💪 and research🔎 easier for students👩‍💻.
